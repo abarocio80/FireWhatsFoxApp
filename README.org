@@ -1,0 +1,3 @@
+* Fire Whats Fox App — A Firefox Add-on for WhatsApp Web
+
+This addon only opnens =https://web.whatsapp.com/= in a panel window (without navigationbar, toolbar, tabs, etc.).
